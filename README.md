@@ -161,5 +161,5 @@ This program is meant for general use when using the input values given in the m
 I am a third year computer science major at Wilfrid Laurier University in Ontario, Canada.
 
 ## License
-
+https://github.com/AdamSerrao/Assignment-4/blob/main/LICENSE
 
